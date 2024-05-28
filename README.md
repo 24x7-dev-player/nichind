@@ -18,7 +18,7 @@ Check out my embed player! https://embedplayer.nichind.dev/docs
 
 ----
 
-<div align="center" class="skills" style="display: flex; flex-flow: column wrap">
+<div align="center" class="skills" text-align: center; style="display: flex; flex-flow: column wrap">
 	<details open>
 	<summary>My skills</summary><br>
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/><br><br>
